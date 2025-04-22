@@ -5,6 +5,11 @@ mikolatero/vlmcsd
 jellyfin/jellyfin
 portainer/portainer
 linuxserver/homeassistant
+linuxserver/duplicati
+chevereto/chevereto
+elestio/uptime-kuma
+netdata/netdata
+
 
 
 
