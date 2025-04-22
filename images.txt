@@ -12,6 +12,7 @@ netdata/netdata
 linzeyi/hivision_idphotos
 zerotier/zerotier
 linuxserver/bookstack
+portainer/portainer-ce
 
 
 
