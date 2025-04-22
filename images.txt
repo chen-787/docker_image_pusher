@@ -4,11 +4,14 @@ adguard/adguardhome
 mikolatero/vlmcsd
 jellyfin/jellyfin
 portainer/portainer
-linuxserver/homeassistant
+homeassistant/home-assistant
 linuxserver/duplicati
 chevereto/chevereto
 elestio/uptime-kuma
 netdata/netdata
+linzeyi/hivision_idphotos
+zerotier/zerotier
+linuxserver/bookstack
 
 
 
