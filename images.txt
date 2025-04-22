@@ -1,6 +1,10 @@
 nginx
 stirlingtools/stirling-pdf 
 adguard/adguardhome
+mikolatero/vlmcsd
+jellyfin/jellyfin
+portainer/portainer
+linuxserver/homeassistant
 
 
 
