@@ -1,18 +1,18 @@
-#nginx
-#stirlingtools/stirling-pdf 
-#adguard/adguardhome
-#mikolatero/vlmcsd
-#jellyfin/jellyfin
-#portainer/portainer
-#homeassistant/home-assistant
-#linuxserver/duplicati
-#chevereto/chevereto
-#elestio/uptime-kuma
-#netdata/netdata
-#linzeyi/hivision_idphotos
-#zerotier/zerotier
-#linuxserver/bookstack
-#portainer/portainer-ce
+nginx
+stirlingtools/stirling-pdf 
+adguard/adguardhome
+mikolatero/vlmcsd
+jellyfin/jellyfin
+portainer/portainer
+homeassistant/home-assistant
+linuxserver/duplicati
+chevereto/chevereto
+elestio/uptime-kuma
+netdata/netdata
+linzeyi/hivision_idphotos
+zerotier/zerotier
+linuxserver/bookstack
+portainer/portainer-ce
 cturra/ntp
 
 
