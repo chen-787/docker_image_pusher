@@ -14,6 +14,18 @@ zerotier/zerotier
 linuxserver/bookstack
 portainer/portainer-ce
 cturra/ntp
+tailscale/tailscale
+gitea/gitea
+jason5ng32/myip
+advplyr/audiobookshelf
+linuxserver/qbittorrent
+emby/embyserver
+linuxserver/transmission
+linuxserver/heimdall
+linuxserver/plex
+herberthe0229/iptv-sources
+
+
 
 
 
