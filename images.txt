@@ -24,6 +24,7 @@ linuxserver/transmission
 linuxserver/heimdall
 linuxserver/plex
 herberthe0229/iptv-sources
+elestio/erpnext
 
 
 
