@@ -25,6 +25,7 @@ linuxserver/heimdall
 linuxserver/plex
 herberthe0229/iptv-sources
 elestio/erpnext
+networkstatic/iperf3
 
 
 
