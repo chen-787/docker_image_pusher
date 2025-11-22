@@ -31,6 +31,7 @@ gdy666/lucky
 containrrr/watchtower
 ihmily/douyin-live-recorder
 sharelatex/sharelatex
+jeessy/ddns-go
 
 
 
